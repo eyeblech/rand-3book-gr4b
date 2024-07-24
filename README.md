@@ -1,2 +1,11 @@
-# rand-3book-gr4b
-simple python script to randomly download e-books from archive[dot]org and save it in Downloads folder
+# Random E-Book Grabber
+
+## Getting Started
+* download the python file
+* execute
+```sh
+python download_random_archive_book.py
+```
+* Check your Downloads folder for the randomly generated e-book 
+
+
